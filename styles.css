@@ -1,0 +1,16 @@
+body {   
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.contain2 {
+    margin:auto;
+    padding: 20px;
+    margin-bottom: 100px;
+}
+
+.container-fluid {
+
+margin: auto;
+
+}
